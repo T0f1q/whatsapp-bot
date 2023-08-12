@@ -1,10 +1,2 @@
 [build]
 command = "npm run build"
-
-[functions]
-
-    [functions.include]
-    external_node_modules = [
-      "module-one",
-      "module-two"
-    ]
